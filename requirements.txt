@@ -1,0 +1,13 @@
+openai
+faiss-cpu
+PyMuPDF
+pdfplumber
+tabula-py
+mysql-connector-python
+sqlalchemy
+fastapi
+uvicorn
+pandas
+numpy
+requests
+Pillow
